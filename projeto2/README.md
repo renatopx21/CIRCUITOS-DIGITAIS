@@ -8,5 +8,6 @@ Circuitos Aritméticos: Somadores (Adders), Subtratores (Subtractors) e Comparad
 Entrada/Saída: Botões interativos, LED RGB (Canais Vermelho e Azul) para indicação visual e Displays de 7 segmentos.
 
 Memória e Sequencial: Contadores, Registradores (Flip-flops D), Demultiplexadores (DMX), Multiplexadores (MUX) e Gerador de valor aleatório (Random Generator).
-<img width="600" alt="Capturar" src="https://github.com/user-attachments/assets/7f412358-b9b7-4a41-82cb-988f24aedbae" />
+<img width="700" alt="Capturar" src="https://github.com/user-attachments/assets/7f412358-b9b7-4a41-82cb-988f24aedbae" />
+## Vídeo gameplay
 [![Projeto 2 (Guess The Number XTREME) - Circuitos digitais](capavid.png)](https://youtu.be/9e56NyCVLkU)
