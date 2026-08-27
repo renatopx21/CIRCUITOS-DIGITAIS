@@ -9,4 +9,4 @@ Entrada/Saída: Botões interativos, LED RGB (Canais Vermelho e Azul) para indic
 
 Memória e Sequencial: Contadores, Registradores (Flip-flops D), Demultiplexadores (DMX), Multiplexadores (MUX) e Gerador de valor aleatório (Random Generator).
 <img width="600" alt="Capturar" src="https://github.com/user-attachments/assets/7f412358-b9b7-4a41-82cb-988f24aedbae" />
-[![Projeto 2 (Guess The Number XTREME) - Circuitos digitais](caminho-da-imagem.png)](https://youtu.be/9e56NyCVLkU)
+[![Projeto 2 (Guess The Number XTREME) - Circuitos digitais](capavid.png)](https://youtu.be/9e56NyCVLkU)
