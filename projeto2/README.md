@@ -8,3 +8,4 @@ Circuitos Aritméticos: Somadores (Adders), Subtratores (Subtractors) e Comparad
 Entrada/Saída: Botões interativos, LED RGB (Canais Vermelho e Azul) para indicação visual e Displays de 7 segmentos.
 
 Memória e Sequencial: Registradores (Flip-flops D), Demultiplexadores (DMX), Multiplexadores (MUX) e Gerador de valor aleatório (Random Generator).
+<img width="1350" height="845" alt="Capturar" src="https://github.com/user-attachments/assets/7f412358-b9b7-4a41-82cb-988f24aedbae" />
